@@ -1,5 +1,10 @@
 # ChatGPT Reviews Analysis 🤖📊
 
+## 🚀 Live Application
+🔗 https://chatgpt-reviews-analysis-fihttddkmyaznd9jsa9swe.streamlit.app/
+
+---
+
 ## 📌 Project Overview
 This project focuses on analyzing **ChatGPT user reviews** to extract meaningful insights related to **user sentiment, satisfaction levels, and recurring pain points** using **Data Analytics and Natural Language Processing (NLP)** techniques.
 

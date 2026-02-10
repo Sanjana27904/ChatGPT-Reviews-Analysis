@@ -1,4 +1,6 @@
-import streamlit as st
+import nltk
+nltk.download('punkt')
+nltk.download('stopwords')import streamlit as st
 import numpy as np
 import pandas as pd
 import plotly.express as px

@@ -127,6 +127,7 @@ streamlit run app.py
 
 ### 🔹Step 5: Open in Browser
 http://localhost:8501
+---
 
 ### 6. Tools & Technologies
 
@@ -140,6 +141,7 @@ Visualization: Matplotlib, Seaborn, Plotly
 
 Dashboard: Streamlit
 
+---
 
 ## 7📌Applications & Use Cases
 
@@ -151,6 +153,8 @@ Monitor sentiment trends over time
 
 Serve as a reference project for NLP + Data Analytics dashboards
 
+---
+
 ## 8.🔮Future Scopee
 
 Integrate advanced NLP models (BERT, Transformers) for improved sentiment accuracy
@@ -160,6 +164,8 @@ Enable real-time review ingestion
 Add multilingual sentiment analysis
 
 Predict future sentiment trends using time-series models
+
+---
 
 ## ⭐ Conclusion
 

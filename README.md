@@ -127,8 +127,8 @@ streamlit run app.py
 
 ### 🔹Step 5: Open in Browser
 http://localhost:8501
----
 
+---
 ### 6. Tools & Technologies
 
 Language: Python
